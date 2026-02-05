@@ -7,7 +7,7 @@ As consultas foram desenvolvidas como parte dos meus estudos em Banco de Dados n
 
 ## 🚀 Conceitos praticados
 
-###Neste repositório foram aplicados:
+### Neste repositório foram aplicados:
 
 SELECT
 
