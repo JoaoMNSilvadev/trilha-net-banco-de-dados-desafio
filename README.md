@@ -31,18 +31,17 @@ Filtros com operadores lógicos
 
 Buscar filmes com duração entre 100 e 150 minutos:
 
-SELECT NomeFilme, Genero
-FROM Filmes
-WHERE Duracao BETWEEN 100 AND 150;
+![Exemplo 1](Imagens/query1.png)
 
+![Exercicio 6](Imagens/6.png)
 
 Buscar filmes e seus gêneros usando relacionamento entre tabelas:
 
-SELECT f.NomeFilme, g.Genero
-FROM Filmes f
-INNER JOIN Generos g ON f.GeneroId = g.Id;
+![Exemplo 1](Imagens/query2.png)
 
-##🛠 Tecnologias
+![Exercicio 10](Imagens/10.png)
+
+## 🛠 Tecnologias
 
 SQL
 
